@@ -1,5 +1,4 @@
 import './style.css'
-import HomePage from 'components/pages/HomePage'
 
 export const App = () => {
   return (
